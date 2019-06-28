@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Mali";
+			
+	src: url("../fonts/Mali/Mali.woff") format("woff"),
+			 url("../fonts/Mali/Mali.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
